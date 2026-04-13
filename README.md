@@ -1,0 +1,1 @@
+# CARTBENCH-Chinese-Artwork-Benchmark
